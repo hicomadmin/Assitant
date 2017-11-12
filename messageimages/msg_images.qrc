@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/">
+        <file>back_icon_n.png</file>
+        <file>back_icon_p.png</file>
+        <file>bg2.png</file>
+        <file>new.png</file>
+        <file>common_right_line.png</file>
+        <file>phraseBox.png</file>
+        <file>btn_send_fail_n.png</file>
+        <file>btn_send_fail_p.png</file>
+        <file>send_Icon.png</file>
+        <file>pic10.png</file>
+        <file>back bg.png</file>
+        <file>box_bg.png</file>
+        <file>box_list_line.png</file>
+        <file>btn_quick_phrases_n.png</file>
+        <file>btn_quick_phrases_p.png</file>
+        <file>dialogue_r_n.9.png</file>
+        <file>left-bg.png</file>
+        <file>List_line.png</file>
+        <file>persen.png</file>
+        <file>pic.png</file>
+        <file>pic2.png</file>
+        <file>pic3.png</file>
+        <file>pic4.png</file>
+        <file>quickbar_bg.png</file>
+        <file>quickbar_list.png</file>
+        <file>right-bg.png</file>
+        <file>row_down_03.png</file>
+        <file>row_up_03.png</file>
+        <file>shurulan bg.png</file>
+        <file>title.png</file>
+        <file>common_title.png</file>
+        <file>contacts_bg.png</file>
+        <file>dialog_left_lt.png</file>
+        <file>dialog_left_ct.png</file>
+        <file>dialog_left_rt.png</file>
+        <file>dialog_left_lc.png</file>
+        <file>dialog_left_cc.png</file>
+        <file>dialog_left_rc.png</file>
+        <file>dialog_left_lb.png</file>
+        <file>dialog_left_cb.png</file>
+        <file>dialog_left_rb.png</file>
+        <file>dialog_right_lt.png</file>
+        <file>dialog_right_ct.png</file>
+        <file>dialog_right_rt.png</file>
+        <file>dialog_right_lc.png</file>
+        <file>dialog_right_cc.png</file>
+        <file>dialog_right_rc.png</file>
+        <file>dialog_right_lb.png</file>
+        <file>dialog_right_cb.png</file>
+        <file>dialog_right_rb.png</file>
+        <file>download_send1.png</file>
+        <file>bb.png</file>
+        <file>bg.png</file>
+        <file>downloading-icon-1.png</file>
+        <file>list_bg.png</file>
+    </qresource>
+</RCC>
